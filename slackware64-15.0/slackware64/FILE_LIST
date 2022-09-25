@@ -1,0 +1,5 @@
+drwxrwxr-x  1 zapzap zapzap       76 2022-09-25 14:12 .
+-rw-rw-r--  1 zapzap zapzap      159 2022-09-25 14:10 ./CHECKSUMS.md5
+-rw-rw-r--  1 zapzap zapzap       57 2022-09-25 14:12 ./FILE_LIST
+drwxrwxr-x  1 zapzap zapzap       42 2022-09-25 14:05 ./pigz
+-rw-rw-r--  1 zapzap zapzap    70496 2022-04-05 15:20 ./pigz/pigz-2.7-x86_64-1.txz
